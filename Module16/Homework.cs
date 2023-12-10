@@ -6,12 +6,11 @@ using System.Threading.Tasks;
 
 namespace Module16
 {
-    internal class Program
+    public class Homework
     {
-        static void Main(string[] args)
+        public static void Start()
         {
-            Practice.Start();
-            Homework.Start();
+
         }
     }
 }
